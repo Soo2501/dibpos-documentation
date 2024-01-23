@@ -1,44 +1,59 @@
 Dependencies:
 ============
-ReactJs, ElectronJs, Tailwind Css, Python 3.10, Django latest version, dbsqlite, 
-graphql, jnius, pyinstaller
+- Python 3.8
+- Django 3.2 
+- dbsqlite
+- postgresql 
+- psycopg2-binary 2.9.6
+- promise 2.3
+- PyJwt 2.8.0
+- graphql-core 2.3.2 
+- pyjnius 1.5.0
+- pyinstaller 5.13.0
+- pillow 10.0.0
+- requests 2.31.0
 
 Build System:
 ============
-- Build System: 'setuptools' and 'pip'
+- Build System:  
+  - setuptools
+  - pip
 
 Package Management:
 ==================
-Yarn, pip
+- pip
 
 Document Generation:
 ===================
-Sphinx is used for documentation.
+- Sphinx
 
 Testing Framework:
 =================
-Pytest, UnitTest
+- Pytest
+- UnitTest
 
 Continuous Integration(CI):
 ==========================
-Not Used 
+- Not Used 
 
 Code Coverage:
 =============
-coverage.py
+- coverage.py
 
 Code Analysis and Linting:
 =========================
-PEP-8
+- PEP-8
 
 Versioning:
 ==========
-Semantic Versioning
-format: Major.Minor.Patch
-Example: 11.1.2
+- Semantic Versioning
+  - format: Major.Minor.Patch
+  - Example: 11.1.2
 
 Branching Strategy:
 ==================
+- Develop Branch
+- Feature Branch 
 
 Contributing Guidelines:
 =======================
@@ -115,6 +130,7 @@ Review and Merge:
 
 Code Review Process:
 ===================
+
 
 Testing Instructions:
 ====================
