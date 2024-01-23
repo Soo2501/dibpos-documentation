@@ -15,9 +15,8 @@ Dependencies:
 
 Build System:
 ============
-- Build System:  
-    1. setuptools
-    2. pip
+1. setuptools
+2. pip
 
 Package Management:
 ==================
