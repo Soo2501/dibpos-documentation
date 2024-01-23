@@ -1,17 +1,25 @@
 Dependencies:
 ============
-- Python 3.8
-- Django 3.2 
-- dbsqlite
-- postgresql 
-- psycopg2-binary 2.9.6
-- promise 2.3
-- PyJwt 2.8.0
-- graphql-core 2.3.2 
-- pyjnius 1.5.0
-- pyinstaller 5.13.0
-- pillow 10.0.0
-- requests 2.31.0
+- Django==3.2
+- django-cors-headers==3.11.0
+- django-filter==21.1
+- django-graphql-jwt==0.4.0
+- django-model-utils==4.2.0
+- django-mptt==0.13.4
+- django-timezone-field==5.0
+- graphene-django==2.15.0
+- graphene-file-upload==1.3.0
+- graphql-core==2.3.2
+- graphql-relay==2.0.1
+- openpyxl==3.0.9
+- phonenumbers==8.12.39
+- Pillow==10.0.0
+- psycopg2-binary==2.9.6
+- pyinstaller==5.13.0
+- pyjnius==1.5.0
+- PyJWT==2.8.0
+- python-dateutil==2.8.2
+- requests==2.31.0
 
 Build System:
 ============
