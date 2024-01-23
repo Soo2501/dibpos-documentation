@@ -16,8 +16,8 @@ Dependencies:
 Build System:
 ============
 - Build System:  
-  - setuptools
-  - pip
+  1. setuptools
+  2. pip
 
 Package Management:
 ==================
@@ -47,8 +47,8 @@ Code Analysis and Linting:
 Versioning:
 ==========
 - Semantic Versioning
-  - format: Major.Minor.Patch
-  - Example: 11.1.2
+  1. format: Major.Minor.Patch
+  2. Example: 11.1.2
 
 Branching Strategy:
 ==================
